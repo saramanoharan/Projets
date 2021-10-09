@@ -1,0 +1,70 @@
+code 
+{
+	background: #73bcec;
+	color : #fff;
+	font-style: 2rem;
+	font-family: "Arial"; 
+	text-align: center;
+	border: 2px solid #060bfa;
+	border-radius: 6px;
+	display: block;
+}
+
+section 
+{
+	float: left;
+	width: 25%;
+	height: 400px; 
+	border: 2px solid #060bfa;
+	border-radius: 6px;
+	display: block;
+	text-align: center;
+	padding: 30px 15px;
+}
+
+header, section 
+{ 
+	margin: 0 1.5% 24px 1.2%
+}
+
+footer
+{
+	clear: both;
+}
+
+body
+{
+	background: #05203A;
+}
+
+p
+{
+	font-family: "Arial";
+	font-style: 2rem;
+	color: #fff;
+}
+
+.f1
+{
+	background: #0B2741;
+
+}
+
+.f2
+{
+	background: #0B2741; 
+}
+.f3
+{
+	background: #0B2741;
+}
+
+.p1
+{
+	background: #4F92D1;
+}
+
+.p2
+{
+	background-color: #4F92D1;
+}
