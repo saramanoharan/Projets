@@ -1,0 +1,50 @@
+body
+{
+	background-color: blanchedalmond;
+}
+h1
+{
+	text-align: center;
+	color: black;
+} 
+.top
+{
+    font-size: 3em;
+    color:darkblue;
+    padding:1.2em 6em 1.2em 6em;
+    background-color: lightblue;
+
+}
+
+table
+{
+	margin: auto;
+	border-collapse: collapse;
+}
+td, th
+{
+	border:  5px solid lightblue;
+	width: 85%;
+	height: 75px;
+	text-align: center;
+}
+td
+{
+	vertical-align: bottom;
+	font-family: arial;
+}
+
+.france
+{
+	background-size: 120%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 32%;
+
+}
+.usa{
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 32%;
+}
