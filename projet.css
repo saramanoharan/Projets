@@ -24,3 +24,6 @@ nav li a{
 nav li :hover{
 	background-color: whitesmoke;
 }
+body{
+	background-image: url('gif.gif');
+}
